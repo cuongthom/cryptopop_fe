@@ -1,0 +1,13 @@
+
+:where(.css-dev-only-do-not-override-mxhywb).ant-modal .ant-modal-title {
+    font-size: 25px !important;
+}
+/* .ant-modal-title {
+    font-size: 50px !important;
+} */
+.bg-pop {
+    background-color: #36758a;
+    padding-right: 0px;
+}
+
+/* css loading */

@@ -1,0 +1,64 @@
+.buttonColor {
+    background-color: #61a1fe;
+}
+
+:where(.css-dev-only-do-not-override-mxhywb).ant-modal .ant-modal-footer .ant-btn+.ant-btn:not(.ant-dropdown-trigger) {
+    display: none;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-btn-default {
+    display: none;
+}
+
+/* CSS */
+.button-1 {
+  background-color: #2081e2;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #579adc;
+  transition:all 0.5s;
+}
+
+
+.inputPrice {
+    padding: 6px 12px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 4px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-btn.ant-btn-sm {
+  background-color: #1677ff;
+  color: white;
+  
+}

@@ -1,0 +1,14 @@
+.gutter-row {
+    width: 10px !important;
+}
+.ant-col {
+    width: 20px !important;
+   
+}
+.element.style{
+    margin-right: 30px;
+}
+:where(.css-dev-only-do-not-override-mxhywb).ant-col-6 {
+    max-width: min-content;
+    margin-right: 20px;
+}

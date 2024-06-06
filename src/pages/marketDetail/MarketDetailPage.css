@@ -1,0 +1,9 @@
+.bg-color {
+    color: #ffffff;
+    /* border-color: #eb5757; */
+    background-color: #eb5757;
+}
+.bg-color:hover {
+    background-color: #e87b7b;
+    transition:all 0.5s;
+}
