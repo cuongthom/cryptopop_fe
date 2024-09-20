@@ -1,4 +1,5 @@
-# CrytoPOP front mainet
+# dự án này chỉ là demo vì lý do bảo mật nên không thể public dự án thật 
+# Crytopop front end mainet
 - An nft marketplace
 ## Techstacks
 - ReactJs, Typescript, Vite, SWC, wagmi, ethers 5
@@ -12,4 +13,3 @@
 - https://wagmi.sh/react/getting-started
 
 
-Author: <a href="https://github.com/lilhuy0405" target="_blank">lilhuy</a>
